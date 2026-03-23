@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "elec_001",
+    "name": "Smart LED TV 55-inch",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 64999,
+    "specifications": {
+      "resolution": "4K UHD",
+      "smart_tv": true
+    },
+    "warranty": {
+      "period": "2 years"
+    }
+  },
+  {
+    "_id": "cloth_001",
+    "name": "Men's Cotton Shirt",
+    "category": "Clothing",
+    "brand": "Levi's",
+    "price": 1999,
+    "attributes": {
+      "material": "Cotton",
+      "fit": "Regular"
+    },
+    "available_sizes": ["M", "L", "XL"]
+  },
+  {
+    "_id": "groc_001",
+    "name": "Whole Wheat Flour 5kg",
+    "category": "Groceries",
+    "brand": "Aashirvaad",
+    "price": 350,
+    "expiry_date": "2026-09-01",
+    "nutritional_info": {
+      "energy": "340 kcal"
+    },
+    "ingredients": ["Wheat"]
+  }
+]
